@@ -41,7 +41,10 @@ Users should be able to:
 - JavaScript
 
 An initial diagram was made to understand the process
-<img src="./imgs/diagram.png">
+<details>
+  <summary💡 Diagram</summary>
+  <img src="./imgs/diagram.png">
+</details>
 
 ### What I learned
 
