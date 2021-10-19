@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Which country is it?](https://themattfire.github.io/which-country-is-it/)
+- Live Site URL: [Which country is it?](https://whichcountry.matthdez.me/)
 
 ## My process
 
