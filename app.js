@@ -115,6 +115,7 @@ let score = 0
 
 window.addEventListener('load', (e) => {
   quiz.style.display = 'none'
+  scoreDiv.style.display = 'none'
 })
 
 // render a question
@@ -134,7 +135,7 @@ start.addEventListener('click', startQuiz)
 function startQuiz() {
   start.style.display = 'none'
   renderQuestion()
-  quiz.style.display = 'block'
+  quiz.style.display = 'flex'
   renderProgress()
   renderCounter()
   TIMER = setInterval(renderCounter, 1000)
